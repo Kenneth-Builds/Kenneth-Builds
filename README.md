@@ -16,7 +16,7 @@
 
 ---
 
-<img align="right" width="280" src="https://github-readme-stats.vercel.app/api?username=MonsieurKenn&show_icons=true&theme=tokyonight&hide_border=true&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&bg_color=0d1117" />
+
 
 ## 👋🏾 Hey, I'm Kenneth
 
